@@ -1,5 +1,5 @@
 {
-  "versionCode": wzn,
+  "versionCode": 1,
   "version": "v1.0",
   "zipUrl": "https://github.com/wenzhuning/magisk/releases/latest/download/memory-suppression.zip",
   "changelog": "https://raw.githubusercontent.com/wenzhuning/magisk/master/README.md"
