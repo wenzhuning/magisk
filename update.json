@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "version": "v1.2",
+  "versionCode": 3,
+  "version": "v1.3",
   "zipUrl": "https://github.com/wenzhuning/magisk/releases/download/微信QQ内存压制/memory-suppression.zip",
   "changelog": "https://raw.githubusercontent.com/wenzhuning/magisk/master/README.md"
 }
